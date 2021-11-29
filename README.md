@@ -1,6 +1,10 @@
 ### 👋 Jisoo Park
 
 
+### BOJ - Algorithm
+---
+[![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qkrtk27)](https://solved.ac/twinklesu14)
+
 
 <!--
 **JisooPark27/JisooPark27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

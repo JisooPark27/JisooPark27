@@ -3,7 +3,7 @@
 
 ### BOJ - Algorithm
 ---
-[![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qkrtk27)](https://solved.ac/twinklesu14)
+[![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qkrtk27)](https://solved.ac/qkrtk27)
 
 
 <!--

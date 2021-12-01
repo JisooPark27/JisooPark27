@@ -1,10 +1,10 @@
 ### 👋 Jisoo Park
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisooPark27&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisooPark27)](https://github.com/anuraghazra/github-readme-stats)
 
 ### BOJ - Algorithm
 ---
 [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qkrtk27)](https://solved.ac/qkrtk27)
-
 
 <!--
 **JisooPark27/JisooPark27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

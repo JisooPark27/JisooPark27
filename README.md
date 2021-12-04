@@ -1,9 +1,14 @@
-### 👋 Jisoo Park
+### Hi there 👋 I'm Jisoo
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisooPark27&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisooPark27)](https://github.com/anuraghazra/github-readme-stats)
+### Contact
+[Resume](https://rowan-room-a62.notion.site/d44b675babfc414098d9163916d5d21e)
 
-### BOJ - Algorithm
 ---
+### GitHub Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisooPark27&theme=buefy)
+
+
+### BOJ
 [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qkrtk27)](https://solved.ac/qkrtk27)
 
 <!--

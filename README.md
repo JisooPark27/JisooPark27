@@ -6,7 +6,7 @@
 
 ---
 ### GitHub Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisooPark27&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritty27&theme=buefy)
 
 ### BOJ
 [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qkrtk27)](https://solved.ac/qkrtk27)

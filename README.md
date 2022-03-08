@@ -10,7 +10,6 @@
 
 ### BOJ
 [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qkrtk27)](https://solved.ac/qkrtk27)
-[![solved.ac](http://mazandi.herokuapp.com/api?handle=qkrtk27&theme=pastel)](https://solved.ac/qkrtk27/)
 
 <!--
 **JisooPark27/JisooPark27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

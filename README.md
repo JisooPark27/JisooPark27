@@ -3,7 +3,7 @@
 ### Contact
 [Resume](https://rowan-room-a62.notion.site/d44b675babfc414098d9163916d5d21e)
 
-<a href="https://velog.io/@jjisoo"><img src="https://img.shields.io/badge/Velog-33CC99?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@jjisoo"/>
+<a href="https://velog.io/@jisoo"><img src="https://img.shields.io/badge/Velog-33CC99?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@jisoo"/>
 
 ---
 ### GitHub Status
